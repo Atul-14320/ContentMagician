@@ -15,9 +15,25 @@ body, html {
 p{
     margin: 0 0 0px;
 }
+
+/* background-image: url("f1.jpg");
+background-repeat:no-repeat;
+background-size: 100% 100%; 
+
+background-position:center; */
+@media screen and (max-width: 600px) {
+    .background {
+       
+background-repeat:no-repeat;
+background-size: 250% 110%; 
+
+background-position:center;
+     }
+   }
   
 .background{
-    height:calc(115vh - 100px);
+    max-width: 100%;
+    height: auto;
     background-image: url("f1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
