@@ -851,7 +851,7 @@ h2 {
     padding: 29px;
  
   }
-  @media all and (max-width: 300px) {
+  @media all and (max-width: 400px) {
     #main {
 
         /* display: flex; */
