@@ -106,7 +106,7 @@ background-position:center;
 
 .container{
     width: 90%;
-    text-align: center;
+    /* text-align: center; */
     margin-top: 10px;
 }
 
@@ -857,6 +857,7 @@ h2 {
         /* display: flex; */
         padding: 29px;
         flex-flow: column;
+        align-items: center;
      
       }
 }
