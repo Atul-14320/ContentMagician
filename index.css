@@ -851,3 +851,12 @@ h2 {
     padding: 29px;
  
   }
+  @media all and (max-width: 300px) {
+    #main {
+
+        /* display: flex; */
+        padding: 29px;
+        flex-flow: column;
+     
+      }
+}
