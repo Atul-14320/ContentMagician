@@ -16,16 +16,16 @@ p{
     margin: 0 0 0px;
 }
 
-/* @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
     .background {
        
 background-repeat:no-repeat;
-/* background-size: 250% 110%;  */
+background-size: 250% 110%; 
 
-/* background-position:center;
+background-position:center;
      }
-   } */
-   
+   }
+  
 .background{
     max-width: 100%;
     height: inherit;
