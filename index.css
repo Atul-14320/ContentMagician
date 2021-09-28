@@ -874,3 +874,10 @@ h2 {
      
       }
 }
+@media all and (max-width: 600px) {
+    .know {
+    margin-top: 70%;
+     
+      }
+}
+
